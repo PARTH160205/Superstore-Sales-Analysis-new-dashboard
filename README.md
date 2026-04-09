@@ -7,7 +7,7 @@ This dashboard provides key insights that help in making data-driven business de
 
 ## 📸 Dashboard Preview
 
- ![Dashboard](Screenshot 2026-03-25 140035.png))
+ ![Dashboard](Superstore_Sales.png)
 
 ## 🚀 Features
 
