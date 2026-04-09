@@ -7,7 +7,7 @@ This dashboard provides key insights that help in making data-driven business de
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard image here in GitHub using: ![Dashboard](image_path))
+ ![Dashboard](Screenshot 2026-03-25 140035.png))
 
 ## 🚀 Features
 
